@@ -19,6 +19,9 @@ CLIPS Java Native Interface is used to use CLIPS on Java.
 ### CLIPS:
 CLIPS is a public domain software tool for building expert systems. 
 The name is an acronym for "C Language Integrated Production System."
+CLIPS is the most widely used tool for making Expert Systems. It uses forward chaining for the inference engine. 
+
+For the project, CLIPS is used to make knowledge base ad inference engine, the rules are fired and predictions made using CLIPS. Java is used in the project so as to add GUI, read the database and other intermediate tasks whereas the entire logical part which does the prediction is made in CLIPS.
 
 ## Instructions to run:
 1. Download the zip and extract it.
